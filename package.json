@@ -1,0 +1,14 @@
+{
+  "name": "firstBot",
+  "version": "0.1",
+  "main": "index.js",
+  "author": "Foks_f",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.0"
+  }
+}
